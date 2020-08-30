@@ -1,2 +1,2 @@
-# PROJECT-19
-THIS IS PROJECT 19 . AN INCOMPLETE ANGRY BIRDS GAME
+# bounceOffAlgorithm2
+bounceOff any two game objects
